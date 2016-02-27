@@ -1,0 +1,33 @@
+_repo: The-Book-of-the-Thousand-Nights-and-a-Night-Volume-15_3449
+alternative_title:
+- "Arabian Nights;\r\n1001 Nights"
+- Arabian nights. English
+contributor:
+  translator:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Sir Richard Francis
+    - Baker, Frank
+    - Burton, R. F. (Richard F.), Sir
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: "Preceded by vol 14 PG#3448 and followed by vol 16 PG#3450\r\nf1001108.txt\
+  \ and .zip have accents, f1001107.txt and .zip do not have them"
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3449'
+language: en
+publication_note: '[S.l.] :  The Burton Club,  1888'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Arab countries'
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+title: The Book of the Thousand Nights and a Night — Volume 15
+url: http://www.gutenberg.org/ebooks/3449
