@@ -1,5 +1,5 @@
 _repo: The-Book-of-the-Thousand-Nights-and-a-Night-Volume-15_3449
-_version: 0.2.0
+_version: 0.2.1
 alternative_title:
 - "Arabian Nights;\r\n1001 Nights"
 - Arabian nights. English
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Tales -- Arab countries'
 - !lcc 'PJ'
 - !lcsh 'Fairy tales'
+- GITenberg
 title: The Book of the Thousand Nights and a Night — Volume 15
 url: http://www.gutenberg.org/ebooks/3449
